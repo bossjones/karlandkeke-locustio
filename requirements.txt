@@ -1,0 +1,7 @@
+requests==2.7.0
+locustio
+pyzmq
+lxml
+pyopenssl
+ndg-httpsclient
+pyasn1
